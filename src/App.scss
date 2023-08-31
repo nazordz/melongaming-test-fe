@@ -1,0 +1,21 @@
+@import 'bootstrap/scss/bootstrap';
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.item-icon {
+  max-height: 136px;
+}
+
+.back-icon {
+  max-width: 24px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.card-header {
+  display: flex;
+}
